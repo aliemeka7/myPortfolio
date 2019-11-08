@@ -54,7 +54,7 @@
     .menu-branding .potrait {
       height: 250px;
       width: 250px;
-      background: url("/img/potrait.png");
+      background: url("dist/img/potrait.PNG");
       border-radius: 50%;
       background-size: cover;
       border: solid 3px #eece1a; }
